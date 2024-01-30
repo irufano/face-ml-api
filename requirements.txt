@@ -5,6 +5,8 @@ fastapi==0.109.0
 h11==0.14.0
 httptools==0.6.1
 idna==3.6
+numpy==1.26.3
+opencv-python==4.9.0.80
 pydantic==2.6.0
 pydantic_core==2.16.1
 python-dotenv==1.0.1
